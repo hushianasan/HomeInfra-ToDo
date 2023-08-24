@@ -11,16 +11,17 @@
 * RTX810の把握
 * Infra >> RTX810 >> Buffaloで繋げるように
 * RTX810 to VPN
-* 
+* NAS２つに仮想化（エイリアス？）
+
 
 #### To Buy
 * ヤマハルーター＆スイッチによるネットワーク構築 標準教科書
 * 
 
-* RTX810 {VPN
-         {Linux for SSH
+RTX810 {VPN
+       {Linux for SSH
 
-        {NAS DS220+
-* RTX810{Moniter
-        {LinuxServer
-        {Wi-Fi
+      {NAS DS220+
+RTX810{Moniter
+      {LinuxServer
+      {Wi-Fi
