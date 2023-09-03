@@ -19,9 +19,13 @@
 * 
 
 RTX810 {VPN
+
        {Linux for SSH
 
       {NAS DS220+
+
 RTX810{Moniter
+
       {LinuxServer
+
       {Wi-Fi
