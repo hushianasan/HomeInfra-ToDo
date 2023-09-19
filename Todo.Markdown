@@ -18,14 +18,12 @@
 * ヤマハルーター＆スイッチによるネットワーク構築 標準教科書
 * 
 
-RTX810 {VPN
+* RTX810
+      * VPN
+      * Linux for SSH
+      * NAS DS220+
 
-       {Linux for SSH
-
-      {NAS DS220+
-
-RTX810{Moniter
-
-      {LinuxServer
-
-      {Wi-Fi
+* RTX810
+      * Moniter
+      * LinuxServer
+      * Wi-Fi
