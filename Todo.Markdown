@@ -4,6 +4,15 @@
 
 据え置きルーターとRTX810をうまく噛み合わせる
 
+#### Current
+
+1. MacMini M2 16GB
+2. iPadAir M2
+3. Synology DS220+
+4. Let's Note Core i5
+5. Nature Remo mini 2
+6. Google Nest Hub
+
 #### ToDo
 * 自宅インフラの把握
 * ネットワークのお勉強
