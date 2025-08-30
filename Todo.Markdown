@@ -1,6 +1,5 @@
 * Grasp HomeInfra
 * Enable RTX810
-* 
 * How to Port Opening Home Ruter
 
 据え置きルーターとRTX810をうまく噛み合わせる
@@ -16,7 +15,6 @@
 
 #### To Buy
 * ヤマハルーター＆スイッチによるネットワーク構築 標準教科書
-* 
 
 * RTX810
 
